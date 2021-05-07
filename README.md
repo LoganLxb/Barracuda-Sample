@@ -1,6 +1,8 @@
 # Barracuda-Sample
 
-![The flow chart](https://github.com/LoganLxb/Barracuda-Sample/blob/main/Assets/Textures/image1.jpg)
+## The flow chart
 
+![The flow chart](https://github.com/LoganLxb/Barracuda-Sample/blob/main/Assets/Textures/image2.png)
 
-![Effect](https://github.com/LoganLxb/Barracuda-Sample/blob/main/Assets/Textures/imag2.jpg)
+## Effect
+![Effect](https://github.com/LoganLxb/Barracuda-Sample/blob/main/Assets/Textures/image1.jpg)
